@@ -1,0 +1,18 @@
+RGB = para declararmos cores no css utilizamos os rgb 
+para informar as cores usamos os numero de 1 a 255 
+ex: 
+    para declarar uma cor Branca 
+    rgb(255,255,255) -> usamos o maximo de cores para ele mostrar a cor branca.
+
+    para declarar a cor vermelha 
+    rgb(255,0,0) -> declaramos a cor vermelha no maximo e as outras cor dizemos que ela e ausente com a numeração 0.
+
+    podemos usar esse tipo de estrategia tambem no hexadecimal, usando a tralha e depois colocamos o maximo de cores que queremos usar -> (primeiro -> vermelho, segundo -> verde,
+    terceiro -> azul). 
+
+    ex:
+        #00 -> declaramos a cor vermelha com ausente, FF -> declaramos a cor verde maxima , 00 -> declaramos a cor azul como ausente
+        a explicação do exemplo de cima!
+        #00FF00 -> declaramos a cor verde.
+
+
