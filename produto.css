@@ -76,3 +76,13 @@ nav a:hover {
     font-weight: bold;
     margin-top: 10px;
 }
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+}
+
+.copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+}
